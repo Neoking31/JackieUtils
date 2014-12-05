@@ -8,6 +8,21 @@ Note :
 1. add the respective library.
 2. make sure to use the correct tools.jar which is respective to your currently setup jdk version
 
+library used
+
+jaxb-api.jar
+jaxb-core.jar
+streambuffer.jar
+stax2-api.jar
+stax-ex.jar
+resolver.jar
+policy.jar
+jaxb-impl.jar
+jaxb-xjc.jar
+jaxws-rt.jar
+jaxws-tools.jar
+tools.jar
+
 output
 parsing WSDL...
 
